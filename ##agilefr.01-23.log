@@ -1,0 +1,404 @@
+--- Log opened mer. janv. 23 13:20:08 2013
+13:20 ~s~ clrh > (~clrh@xvm-160-55.ghst.net) has joined ##agilefr
+13:20 ~s~ Irssi: ##agilefr: Total of 7 nicks 1 ops, 0 halfops, 0 voices, 6 normal
+13:20 ~s~ Irssi: Join to ##agilefr was synced in 1 secs
+13:20 :          clrh : hello
+13:20 :     estrebet_ : hello
+13:21 :     estrebet_ : qui es tu?
+13:23 :          clrh : qui je suis hm
+13:23 :          clrh : Claire
+13:23 :     estrebet_ : enchanté
+13:23 :          clrh : également et toi ?
+13:23 :     estrebet_ : bertrand
+13:24 :     estrebet_ : compte twitter @estrebet
+13:24 :          clrh : je viens par le twit récent de pablo
+13:24 :     estrebet_ : pareil
+13:24 :     estrebet_ : une premiere pour moi IRC
+13:25 :          clrh : cool :) je suis connectée en permanence sauf coupure de serveur et vraiment connectée la journée (boulot / communautés etc.)
+13:25 :          clrh : je verrai à quel point je pourrai participer en fonction des dispos
+13:25 :     estrebet_ : tu bosses ou?
+13:25 :          clrh : BibLibre, MArseille
+13:26 :     estrebet_ : moi Montpellier
+13:26 :      magopian : quelqu'un peut m'expliquer le but? j'ai vu le tweet de Pablo, mais je sais pas de quoi ça s'agit ;)
+13:26 :          clrh : services dans le ll dans les bibliothèques
+13:26 :          clrh : logiciel libre
+13:26 :     estrebet_ : Pablo s'amuse un peu je dirai
+13:26 :     estrebet_ : il aime bien le FUN
+13:27 :          clrh : magopian: je suppose que c'est un test de chan pour une communauté agile fr, comme il peu y avoir un chan pour d'autres communautés
+13:27 :     estrebet_ : ha on est 3
+13:28 :     estrebet_ : qui es tu magopian ?
+13:29 :      magopian : Mathieu, je travaille (à distance) pour une boite sur paris (Novapost), je suis dev web (python+django)
+13:29 :     estrebet_ : tu es de quelle ville?.
+13:31 :     estrebet_ : ok je te vois sur Twitter
+13:31 :      magopian : au sud de Valence
+13:31 :      magopian : dans la Drôme
+13:33 ~s~ estrebet_ < (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has left ##agilefr ["http://quassel-irc.org - Discuter simplement. Partout."]
+13:33 ~s~ estrebet > (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has joined ##agilefr
+13:37 ~s~ ndubois > (~nico@mail1.gpdis.com) has joined ##agilefr
+13:38 :      estrebet : salut
+13:41 :         olbap@: back
+13:41 :         olbap@: de retour !
+13:43 :      magopian : olbap: alors, de quoi ça s'agit !
+13:43 :      estrebet : pablo?
+13:47 :         olbap@: oui, ben aucune idée précise (comme d'habitude)
+13:47 :         olbap@: juste avoir un canal dans lequel on peut s'interroger, se confronter, quand c'est nécessaire
+13:47 :         olbap@: sans passer par tweeter.
+13:47 :         olbap@: et oui chacun peut venir jeter un oeil et parcourir l'historique (?)
+13:47 :         olbap@: voilà pas plus.
+13:47 :         olbap@: peut-être dans 2 semaines c'est abandonné.
+13:47 :         olbap@: je n'en sais rien.
+13:48       estrebet : tu vois ce que j'ai dit  à clrh ?
+13:48 :      estrebet : avant ton retour?
+13:48 :         olbap@: oui oui
+13:48 :      estrebet : mais peut etre tu as tous les pouvoirs
+13:49 :         olbap@: non non j'ai du laisser mon xchat ouvert... donc ...
+13:49 :      estrebet : si tu as créé le canal
+13:49 :      estrebet : ok
+13:50 :         olbap@: ou peut-être quand c'est nécessaire pour discuter : hop on ouvre le canal ?
+13:50 :      estrebet : on est 7 quand meme
+13:51 :      estrebet : tu as rameuté du monde
+13:53 :         olbap@: oui mais si c'est pour rien... on verra.
+13:54 :      magopian : si c'est pour rien, pas de soucis, ce sera la punition habituelle (fessée cul nul et pilori sur la place publique, t'inquiète, rien de grave)
+13:54 :      estrebet : c une bonne idée je trouve
+13:55 :      magopian : la punition ou l'ouverture du salon? :)
+13:55 :      estrebet : les 2
+13:55 :      estrebet : non l'ouverture du salon
+13:57 :      estrebet : liveIRC de conf par exemple
+13:58 :         olbap@: ah oui pas con
+13:58 :         olbap@: live irc de conf.
+14:00 :         olbap@: déjà Bertrand a découvert Claire.
+14:00 :         olbap@: agilefr 1 - 0 meetic
+14:00 :      estrebet : c'est pas faux
+14:00 :      estrebet : mais je la connaissait de twitter
+14:01 :      estrebet : connaissais
+14:08 :      estrebet : sinon qui va à Agile Game 2013?
+14:10 :         olbap@: Yep!
+14:10 :         olbap@: finalement j'y vais
+14:11 :      estrebet : moi aussi
+14:11 :      estrebet : j'ai eu chaud
+14:11 :      magopian : pas pour ma part
+14:11 :      estrebet : il ne restait qu'une place
+14:12 :      estrebet : y a du beau monde
+14:12 :      estrebet : pablo, caubry, vmessager
+14:15 :          clrh : olbap: hello
+14:15 :          clrh : tu n'allais pas à iutagile jeudi ?
+14:15 :          clrh : euh vendredi ?
+14:15 :          clrh : un chan irc c'est jamais pour rien, c'est juste pas toujours actif :)
+14:15 :         olbap@: ben intialement oui. Puis j'ai eu une mission qui m'a fait annuler ma présence, puis 2, puis les 2 missions ont été annulées l'une après l'autre
+14:16 :         olbap@: et dans l'interval j'avais donc annulé ma présence et dit à Antoine qu'il le ferait seul ou avec une autre personne.
+14:16 :          clrh : dac :)
+14:16 :         olbap@: Bref pour janvier j'avais filé toutes mes missions à Jérôme et Yassine (chez smartview) car j'imaginais partir 1 mois à l'étranger en mission.
+14:17 :         olbap@: C'est tombé à l'eau, et j'ai un calendrier vide... c'est super ! donc -> agile games france
+14:18 :         olbap@: cela aurait été dommage à 45mn de la maison...
+14:20 :      magopian : j'aurais bien aimé y assister aussi (c'est à 1h de chez moi), mais je suis pas très versé dans l'agile pour le moment, et c'est quand même un budget
+14:20 :      magopian : (et de toute manière, si j'ai bien compris, y'a plus de place)
+14:20 ~s~ ervin > (~kdab@kde/ervin) has joined ##agilefr
+14:27 :         olbap@: est-ce que les nouveaux venus peuvent lire l'historique ?
+14:28 :          clrh : pareil je suis un peu deg, alors que c'est tout près :)
+14:28 :          clrh : je teste
+--- Log closed mer. janv. 23 14:28:22 2013
+--- Log opened mer. janv. 23 14:28:26 2013
+14:28 ~s~ clrh > (~clrh@xvm-160-55.ghst.net) has joined ##agilefr
+14:28 ~s~ Irssi: ##agilefr: Total of 9 nicks 1 ops, 0 halfops, 0 voices, 8 normal
+14:28 ~s~ Irssi: Join to ##agilefr was synced in 1 secs
+14:28 :          clrh : si je pars / reviens je ne vois pas l'historique, comme un autre chan
+14:30 ~s~ fbentz > (~fbentz@2a02-8420-4c7c-2f00-b8b3-dfc8-0477-abe6.rev.sfr.net) has joined ##agilefr
+14:30 :        fbentz : Bonjour tout le monde
+14:31 :      magopian : olbap: si tu veux voir l'historique, il faut soit utiliser un service comme (par exemple) botbot (un bot irc qui logue et affiche sur un site web l'historique)
+14:31 :      magopian : soit utiliser un serveur irc spécifique (par exemple grove.io)
+14:32 :         olbap@: ah oui je viens de voir... /history chez grove
+14:33 :          clrh : bonjour fbentz 
+14:36 :      magopian : pour botbot : https://botbot.me/
+14:36 :      magopian : c'est excellent si tu me demande, mais c'est payant je crois
+14:36 :      magopian : (c'est fait par la boite de Yann Malet, je ne sais pas si tu connais, LincolnLoop)
+14:38 ~s~ olbap < (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has quit [Ping timeout: 248 seconds]
+14:55 ~s~ olbap > (~pablo@lem34-1-88-188-241-49.fbx.proxad.net) has joined ##agilefr
+15:21 ~s~ olbap_ > (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has joined ##agilefr
+15:25 ~s~ olbap < (~pablo@lem34-1-88-188-241-49.fbx.proxad.net) has quit [Ping timeout: 255 seconds]
+15:27 ~s~ olbap_ < (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has quit [Quit: Ex-Chat]
+15:27 ~s~ olbap > (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has joined ##agilefr
+15:27 ~s~ olbap < (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has quit [Read error: Connection reset by peer]
+15:27 ~s~ olbap > (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has joined ##agilefr
+15:27 :         olbap : back
+16:08 :      estrebet : ca bouge pas trop
+16:11 :         olbap : pas grave j'essaye de le laisser vivre une semaine pour voir.
+16:11 :         olbap : après on actera
+16:12 :      estrebet : faut rebalancer une com dessus je pense
+16:12 :      estrebet : car on est déjà 10
+16:13 :      estrebet : et c pas mal
+16:13 :      magopian : si y'a pas de but à ce salon, ça sert pas à grand chose de faire venir plus de monde, je me trompe?
+16:14 :      magopian : et si y'en a un, le mettre dans le topic
+16:14 :         olbap : pour moi le but c'est : un sujet une discussion un feedback que l'on partage pour en savoir plus
+16:14 :         olbap : à n'importe quel moment, un écho, une réponse, un avis, un feedback... etc.
+16:14 :      magopian : "entraide autour de l'agile" ?
+16:14 :         olbap : oui
+16:14 :      estrebet : oui c pas mal ca
+16:14 :         olbap : commande irc ?
+16:14 :         olbap : pour remplir le topic
+16:14 :          clrh :  /topic topic
+16:14 :         olbap : entraide francophone autour de l'agile
+16:14 ~s~ Irssi: ##agilefr: Total of 10 nicks 0 ops, 0 halfops, 0 voices, 10 normal
+16:14 :      magopian : "communauté Agile FR - n'hésitez pas à poser vos questions, apporter votre pierre à l'édifice"
+16:14 :          clrh : faut être op je pense
+16:15 :          clrh : et je vois pas chanserv ici
+16:15 :          clrh : normal ?
+16:15 :      magopian : pas besoin de chanserv, du moment que olbap est le owner du salon, devrait pas y avoir de soucis
+16:15 :      magopian : (du moment que le salon est enregistré)
+16:15 :         olbap : agile francophone, j'aimerais beaucoup discuter avec le Canada, la Belgique ou le Maghreb.
+16:15 :          clrh : dac
+16:15 :         olbap : normalement j'ai enregistré le salon
+16:18 :          clrh : je tenterais un: 
+16:18 :          clrh :  /msg Chanserv op ##agilefr
+16:18 :          clrh :  /topic <leopic>
+16:18 :          clrh : pourquoi "##" d'ailleurs ? ca m'intrigue :)
+16:20 :         olbap : ok j'essaye
+16:20 :          clrh : avant tu dois être identifié sur nickserv /msg Nickserv identify <monpass>
+16:22 :         olbap : il me dit que je ne suis pas channel operator...
+16:23 :         olbap : je cherche...
+16:24 :         olbap : whois olbap
+16:24 :         olbap : hu hu hu
+16:25 :          clrh : pour d'oper c'est -16:18- :          clrh :  /msg Chanserv op ##agilefr
+16:25 :          clrh : mais avant tu dois être identifié avec /msg Nickserv identify <monpass> 
+16:25 :         olbap : oui oui, mais c'est mon client xchat qui ne fonctionne pas tel quel a priori. je crois que je trouve.
+16:25 :         olbap : je me déloggue et je reviens
+16:26 ~s~ olbap < (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has left ##agilefr ["Ex-Chat"]
+16:26 ~s~ olbap > (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has joined ##agilefr
+16:26 ~s~ olbap_ > (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has joined ##agilefr
+16:29 ~s~ olbap_ < (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has quit [Client Quit]
+16:29 ~s~ olbap < (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has quit [Client Quit]
+16:29 ~s~ olbap > (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has joined ##agilefr
+16:29 ~s~ olbap_ > (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has joined ##agilefr
+16:35 :        olbap_ : putain d'IRC... :)
+16:35 :        olbap_ : je ne suis pas op et je cherche...
+16:36 ~s~ olbap < (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has left ##agilefr ["Ex-Chat"]
+16:36 ~s~ olbap_ < (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has left ##agilefr ["Ex-Chat"]
+16:36 ~s~ olbap > (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has joined ##agilefr
+16:36 ~s~ olbap_ > (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has joined ##agilefr
+16:36 ~s~ olbap_ < (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has left ##agilefr []
+16:36 ~s~ olbap < (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has left ##agilefr []
+16:37 ~s~ olbap > (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has joined ##agilefr
+16:38 ~s~ olbap < (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has left ##agilefr []
+16:38 ~s~ olbap > (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has joined ##agilefr
+16:38 ~s~ olbap_ > (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has joined ##agilefr
+16:39 ~s~ olbap_ < (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has left ##agilefr []
+16:39 ~s~ olbap < (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has left ##agilefr []
+16:39 ~s~ olbap > (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has joined ##agilefr
+16:39 ~s~ olbap_ > (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has joined ##agilefr
+16:39 ~s~ olbap_ < (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has left ##agilefr []
+16:39 ~s~ olbap < (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has left ##agilefr []
+16:40 ~s~ olbap > (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has joined ##agilefr
+16:41 :         olbap : Non il me dégage il me dit que je ne suis pas channel operator pourtant je suis bien identifié. J'ai du rater un truc
+16:42 :      magopian : olbap: tape /msg chanserv op
+16:42       magopian : 16:18 < clrh>  /msg Chanserv op ##agilefr
+16:42 ~s~ mode/##agilefr [+o olbap] by ChanServ
+16:42 :         olbap@: ChanServ gives channel operator status to olbap
+16:42 :         olbap@: ...
+16:42 :         olbap@: et pourtant ...
+16:43 :         olbap@: j'essaye maintenant le topic
+16:43 ~s~ olbap changed the topic of ##agilefr to: Espace de discussions pour agilistes francophones
+16:43 :         olbap@: olbap has changed the topic to: Espace de discussions pour agilistes francophones
+16:43 :         olbap@: yes.
+16:43          olbap@: euh... je vous donne le op aussi au max ? d'accord la ligne de commande c'est /op clrh etc... ?
+16:44 :      magopian : yep
+16:44 ~s~ mode/##agilefr [+o magopian] by olbap
+16:44 ~s~ mode/##agilefr [+o clrh] by olbap
+16:44 :         olbap@: qui n'en veut ?
+16:44          olbap@: +2 ops : clrh magopian
+16:45 :         olbap@: ça avance...
+16:46 :          clrh@: merci
+16:46 :      magopian@: merci
+16:46 :         olbap@: de nada !!!
+16:46 :         ervin : olbap: si tu passes pas par chanserv ça sera temporaire leur status d'op
+16:46 :         olbap@: alors redonne moi la commande "définitive" svp.
+16:46 :         ervin : faut les enregistrer auprès de chanserv c'est largement plus souple
+16:47 :         olbap@: yep compris et fait
+16:47          olbap@:  genre : /msg chanserv op clrh
+16:47 :         olbap@: normalement c'est fait pour les deux !
+16:47 :         ervin : faut que je retrouve
+16:48 :         ervin : ah: /chanserv access ##agilefr ADD <nickname de la personne> OP
+16:49 :         olbap@: j'essaye !
+16:49 :         ervin : pourquoi ##agilefr et pas #agilefr au fait? (en général c'est plutôt un seul # la convention)
+16:50 :      goldoraf : la convention sur freenode c'est ## pour les chans non officiels
+16:50 :         olbap@: yep goldo , vu
+16:50 :      goldoraf : bon après, la question est : qu'est-ce qu'un chan non-officiel ?
+16:50 :      goldoraf : ;)
+16:50 :         ervin : ah, donc pas de lien avec agile france?
+16:50 :         ervin : goldoraf: oui voilà
+16:50 :         olbap@: NON !
+16:50 :         olbap@: Officiel : quand tu as un dépôt de marque
+16:50 :         olbap@: agile francophone
+16:50 :         olbap@: c'est quoi agile fr ?
+16:51 :         olbap@: :)
+16:51 :         olbap@: commande de ervin passée
+16:51 :         ervin : ouais la plupart des gens ont moins de scrupules :)
+16:51 :         ervin : je suis sur plusieurs chans sans dépôt de marque derrière
+16:52 :         ervin : olbap: donc normalement ceux pour qui tu as utilisé la commande peuvent passer op quand ils veulent, même si tu n'es pas là
+16:52 :         olbap@: ok vous me direz
+16:52 :         olbap@: si d'autres veulent l'être, c'est gratuit !!!
+16:52 :         ervin : olbap: je vois que toi dans la liste access cela dit
+16:52 :         ervin : olbap: tu as mis qui en access op?
+16:52 :         olbap@: clrh magopian
+16:53 :      goldoraf : olbap, je veux bien être op, je suis connecté quasi 24/24
+16:53 :         ervin : normalement je devrais les voir il me semble
+16:53 :         ervin : or là, rien
+16:53 :         olbap@: je fais cette commande : /msg chanserv access ##agilefr add goldoraf op
+16:53 ~s~ mode/##agilefr [+o goldoraf] by olbap
+16:54 :         olbap@: et aussi /op goldoraf
+16:54 ~s~ Irssi: ##agilefr: Total of 10 nicks 4 ops, 0 halfops, 0 voices, 6 normal
+16:54 ~s~ sylv1 > (51fb4423@gateway/web/freenode/ip.81.251.68.35) has joined ##agilefr
+16:54 :         ervin : olbap: et il a répondu quoi chanserv?
+16:54 :         olbap@: ça : >chanserv< access ##agilefr add goldoraf op
+16:55 ~s~ avernois > (~avernois@gulltopp.vernois.net) has joined ##agilefr
+16:55 ~s~ Irssi: ##agilefr: Total of 12 nicks 4 ops, 0 halfops, 0 voices, 8 normal
+16:55 :         ervin : c'est ta ligne ça probablement pas sa réponse
+16:55 :          clrh@: :)
+16:55 :         olbap@: Oh nom de dieu , Antoine Vernois...
+16:55 :         ervin : elle a du finir soit dans un query séparé
+16:55 :         olbap@: ahhh.
+16:55 :         ervin : soit dans le catchall serveur
+16:55 :      avernois : et ouais, me voilà
+16:55 :         olbap@: yep right : Invalid template name given, use /msg ChanServ TEMPLATE ##agilefr for a list
+16:56 :         olbap@: donc /msg ChanServ op goldoraf ##agilefr ?
+16:57 :         ervin : ah
+16:57 :         olbap@: je crois que j'ai : /msg ChanServ op goldoraf ##agilefr
+16:57 :         olbap@: tu le vois dans access ervin ?
+16:57 :         ervin : pas de template par défaut
+16:57 :         ervin : non
+16:57 :         ervin : oublie op ça n'a pas de lien ;)
+16:57 :         ervin : bon si pas de template je te donne l'alternative dans une seconde :)
+16:58 :         olbap@: si si lapage help indique que op peut fonctionner
+16:58 :         ervin : ah: /chanserv access ##agilefr ADD <nickname de la personne> +AFRfiorstv
+16:58 :         ervin : ça donne les même droits que toi
+16:59 :         olbap@: je tente
+16:59 :         ervin : tu peux décider de donner moins, mais je te laisse passer par "help flags" pour savoir lesquels tu ne veux pas donner :D
+16:59 ~s~ mode/##agilefr [-o goldoraf] by ChanServ
+16:59 :         ervin : yep
+16:59 :         ervin : on est bon cette fois
+16:59 :         ervin : "magop" dans la liste
+17:00 :         ervin : clrh aussi
+17:00          olbap@: bon voilà pour les 3, (clrh, magopian, goldoraf) d'autres ?
+17:00 :         ervin : olbap: y'a un loupé pour goldoraf
+17:00 :         ervin : il n'y est pas
+17:01 ~s~ mode/##agilefr [+o goldoraf] by olbap
+17:01          olbap@: bon voilà pour les 3, (clrh, magopian, goldoraf) d'autres ?
+17:01          olbap@: bon voilà pour les 3, (clrh, magopian, goldoraf) d'autres ?
+17:01 :         ervin : nick non enregistré pour goldoraf
+17:01 :         ervin : il faut qu'il en passe par là d'abord
+17:01 :         olbap@: oui je vois cela... goldoraf ?
+17:01 :      goldoraf@: ouep
+17:01 :         ervin : olbap: je veux bien histoire de filer un coup de main de temps en temps si nécessaire
+17:02 :         ervin : je suis assez présent au quotidien sauf lors des déplacements
+17:02 ~s~ mode/##agilefr [-o goldoraf] by ChanServ
+17:02 ~s~ mode/##agilefr [+o ervin] by olbap
+17:02 :         olbap@: ervin fait.
+17:02 :         olbap@: attention je  n'ai aucune idée : est-ce que ce salon va être utile ? survivre à 1 semaine ?
+17:03 :         ervin@: olbap: oui je me doute, à mon avis tu peux faire les access list pour #agilefr aussi
+17:04 :      estrebet : ca donne droit à quoi d'être opérateur?
+17:05 :          clrh@: changer de topie
+17:05 :          clrh@: changer de topic
+17:05 :      goldoraf : olbap, ervin c'est bon j'ai registré mon nick ;)
+17:05 :          clrh@: sortir, banir <- très important!
+17:05 :          clrh@: :)
+17:05 ~s~ mode/##agilefr [+o goldoraf] by olbap
+17:05 :      goldoraf@: thx
+17:05 :      estrebet : je veux bien alors
+17:05 ~s~ mode/##agilefr [+o estrebet] by olbap
+17:06 :      estrebet@: si ca coute pas plus cher
+17:06 :         olbap@: fait pour les 2
+17:06 :      estrebet@: tks
+17:07 ~s~ estrebet < (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has quit [Quit: http://quassel-irc.org - Discuter simplement. Partout.]
+17:08 ~s~ estrebet > (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has joined ##agilefr
+17:09 ~s~ mode/##agilefr [-o ervin] by ervin
+17:12 ~s~ ndubois < (~nico@mail1.gpdis.com) has quit [Quit: Leaving.]
+17:13 :         olbap@: Voilà maintenant que tout est en place ou peut tout jeter histoire de tester le fail fast. :)
+17:13 :         ervin : goldoraf: donne
+17:13 :         olbap@: bon on va voir cela ne coute rien.
+17:13 :         ervin : oulah...
+17:13 :      goldoraf@: ervin, thx
+17:13 :         ervin : goldoraf: fait
+17:13 :         ervin : :)
+17:15 :      estrebet : on perd les droits quand on se déconnecte?
+17:16 :         ervin : pas si on est dans l'access list justement
+17:16 :      estrebet : je ne suis plus dans opérateurs
+17:16 :         ervin : si c'est le cas chanserv peut les restaurer à la demande
+17:17 :         ervin : estrebet: comme goldoraf il faut que tu fasses enregistrer ton nickname d'abord
+17:17 :         ervin : ensuite on pourra te mettre dans l'access list
+17:17 :      estrebet : j'ai pas suivi la manip alors
+17:18 ~s~ olbap < (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has quit [Ping timeout: 252 seconds]
+17:20 ~s~ ndubois > (~nico@mail1.gpdis.com) has joined ##agilefr
+17:27 ~s~ mode/##agilefr [+o estrebet] by ChanServ
+17:28 ~s~ estrebet < (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has quit [Quit: http://quassel-irc.org - Discuter simplement. Partout.]
+17:28 ~s~ estrebet_ > (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has joined ##agilefr
+17:29 :         ervin : à plus tard les gens
+17:30 ~s~ ervin < (~kdab@kde/ervin) has quit []
+17:30 ~s~ ndubois < (~nico@mail1.gpdis.com) has quit [Quit: Leaving.]
+17:30 ~s~ ndubois > (~ndubois@mail1.gpdis.com) has joined ##agilefr
+17:33 ~s~ olbap > (~pablo@lem34-1-88-188-241-49.fbx.proxad.net) has joined ##agilefr
+17:35 ~s~ estrebet_ < (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has quit [Quit: http://quassel-irc.org - Discuter simplement. Partout.]
+17:36 ~s~ estrebet_ > (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has joined ##agilefr
+17:37 ~s~ estrebet_ < (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has quit [Client Quit]
+17:38 ~s~ estrebet > (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has joined ##agilefr
+17:41 ~s~ mode/##agilefr [+o estrebet] by ChanServ
+17:42 :      estrebet@: ça fait faire un peu de ligne de commande tout ça
+17:42 :      estrebet@: merci pablo
+17:45 ~s~ acassaigne > (~acassaign@min31-6-78-227-67-72.fbx.proxad.net) has joined ##agilefr
+17:45 :    acassaigne : Bonjour
+17:45 :      estrebet@: bonjour
+17:46 :    acassaigne : Plabo lance le canal et déjà quelques participants
+17:46 :    acassaigne : ^^Pablo
+17:48 :         olbap : des participants oui, du contenu non :) on laisse le temps. On ne "décide" pas d'avoir du contenu.
+17:48 :          clrh@: tout va bien alors :)
+17:48 :    acassaigne : Effectivement on verra bien
+17:49 :    acassaigne : Ca peut être un canal pour demander un avis
+17:53 :         olbap : yep.
+17:54 :    acassaigne : C'est une bonne idée
+17:54 :      estrebet@: et des Live IRC de conférences
+17:55 :    acassaigne : Des conf via IRC ? Jamais assisté.
+17:56 :      estrebet@: pour ceux qui ne peuvent pas y assister
+17:56 :      estrebet@: les présents retransmettent la conf
+17:56 :      estrebet@: enfin c une idée d'usage
+17:56 :    acassaigne : je comprends cet aspect là mais comment tu transcris en live le speech ?
+17:57 :      estrebet@: clavier
+17:58 :    acassaigne : Ouaip à tenter
+18:01 :         olbap : plutôt les commentaires autour de la conf ?
+18:01 :          clrh@: comme du live twit ?
+18:01 :    acassaigne : oui les commentaires çà semble jouable
+18:03 :    acassaigne : Mathieu J'ai réellement apprécié ta conférence à la DjangoCon de Toulouse
+18:03 :    acassaigne : Grace à ta présentation j'ai découvert gorun !
+18:03 :    acassaigne : Super outil pour le TDD
+18:03 ~s~ fbentz < (~fbentz@2a02-8420-4c7c-2f00-b8b3-dfc8-0477-abe6.rev.sfr.net) has quit [Quit: fbentz]
+18:10 :          clrh@: sur ce... bonne soirée
+18:16 ~s~ ndubois < (~ndubois@mail1.gpdis.com) has quit [Quit: Leaving.]
+18:20 :         olbap : bye
+18:21 :    acassaigne : bonne soirée
+18:21 ~s~ acassaigne < (~acassaign@min31-6-78-227-67-72.fbx.proxad.net) has quit [Quit: KVIrc 4.1.1 Equilibrium http://www.kvirc.net/]
+18:27 :         olbap : bonne soirée
+18:38 ~s~ olbap < (~pablo@lem34-1-88-188-241-49.fbx.proxad.net) has left ##agilefr ["Ex-Chat"]
+18:38 ~s~ sylv1 < (51fb4423@gateway/web/freenode/ip.81.251.68.35) has quit [Ping timeout: 245 seconds]
+19:14 ~s~ henri > (~smuxi@che33-5-82-232-104-115.fbx.proxad.net) has joined ##agilefr
+19:15 ~s~ henri < (~smuxi@che33-5-82-232-104-115.fbx.proxad.net) has left ##agilefr []
+19:22 ~s~ ChrisH_ > (55ab4b1b@gateway/web/freenode/ip.85.171.75.27) has joined ##agilefr
+19:36 ~s~ ChrisH_ < (55ab4b1b@gateway/web/freenode/ip.85.171.75.27) has quit [Ping timeout: 245 seconds]
+19:52 ~s~ fbentz > (~fbentz@pai34-2-82-240-183-36.fbx.proxad.net) has joined ##agilefr
+20:34 ~s~ olbap > (~pablo@lns-bzn-47f-81-56-186-81.adsl.proxad.net) has joined ##agilefr
+20:43 ~s~ olbap < (~pablo@lns-bzn-47f-81-56-186-81.adsl.proxad.net) has quit [Quit: Ex-Chat]
+20:55 :      estrebet@: http://www.monconseillerpatrimoine.fr/Immobilier/
+20:55 :      estrebet@: dsl mauvais copier/collet
+20:55 :      estrebet@: coller
+21:18 ~s~ sylv1 > (510e22ee@gateway/web/freenode/ip.81.14.34.238) has joined ##agilefr
+21:49 :      estrebet@: des gens de Montpellier en ligne?
+22:01 :     david`bgk : presque (Arles)
+22:04 :      estrebet@: oui ce n'est pas loin
+22:06 :     david`bgk : et j'y suis demain en fait
+22:08 :      estrebet@: tu bosses ou?
+22:08 :     david`bgk : scopyleft
+22:09 :      estrebet@: beau projet
+22:12 :     david`bgk : merci
+22:24 ~s~ estrebet < (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has quit [Quit: http://quassel-irc.org - Discuter simplement. Partout.]
+22:24 ~s~ estrebet_ > (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has joined ##agilefr
+22:26 ~s~ estrebet_ < (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has quit [Remote host closed the connection]
+22:27 ~s~ estrebet > (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has joined ##agilefr
+22:47 ~s~ estrebet < (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has quit [Ping timeout: 276 seconds]
+23:05 ~s~ sylv1 < (510e22ee@gateway/web/freenode/ip.81.14.34.238) has quit [Ping timeout: 245 seconds]
+23:33 ~s~ sfui > (~Adium@238.34.14.81.rev.sfr.net) has joined ##agilefr
+--- Log closed jeu. janv. 24 00:00:57 2013

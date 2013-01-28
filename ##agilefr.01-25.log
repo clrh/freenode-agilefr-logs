@@ -1,0 +1,98 @@
+--- Log opened ven. janv. 25 00:00:00 2013
+00:12 ~s~ estrebet < (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has quit [Ping timeout: 264 seconds]
+00:49 ~s~ sfui1 < (~Adium@157.80.176.95.rev.sfr.net) has quit [Quit: Leaving.]
+07:26 ~s~ estrebet_ > (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has joined ##agilefr
+09:10 ~s~ ndubois < (~ndubois@mail1.gpdis.com) has quit [Quit: Leaving.]
+09:14 :          clrh : bonjour
+09:15 ~s~ ndubois > (~ndubois@mail1.gpdis.com) has joined ##agilefr
+09:16 ~s~ sfui > (~Adium@AMontpellier-556-1-316-35.w81-251.abo.wanadoo.fr) has joined ##agilefr
+09:56 ~s~ estrebet_ < (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has quit [Quit: http://quassel-irc.org - Discuter simplement. Partout.]
+09:57 ~s~ estrebet_ > (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has joined ##agilefr
+09:57 ~s~ estrebet_ < (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has quit [Remote host closed the connection]
+09:59 ~s~ estrebet_ > (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has joined ##agilefr
+10:12 ~s~ estrebet_ < (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has quit [Quit: http://quassel-irc.org - Discuter simplement. Partout.]
+10:12 ~s~ estrebet_ > (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has joined ##agilefr
+10:27 ~s~ olbap > (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has joined ##agilefr
+10:36 ~s~ estrebet_ < (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has quit [Remote host closed the connection]
+10:41 :      pointbar : 'morning
+10:51 :         olbap : hello tu as reçu mon texte stéphane ?
+10:52 :      pointbar : olbap: Wot ?
+10:52 :         olbap : mail.
+10:52 :         olbap : as tu lu tes mails ?
+10:53 :      pointbar : forget uuidget ;)
+10:53 :      pointbar : j'y vais, 2sec
+10:53 :         olbap : ah oui, forward scopyleft done
+10:53 :         olbap : fauit
+10:53 :         olbap : fait
+10:53 :         olbap : non juste si tu as 5 mn
+10:54 :         olbap : je pense que cela te plaira
+10:54 :         olbap : mise en ligne cet aprem si alexis me donne le go.
+10:54 :         olbap : ça va chambrer .... il défonce agile.
+10:54 :         olbap : et bien en plus.
+10:54 :         olbap : et il défonce l'humanisme.
+10:54 :         olbap : et bien en plus
+10:55 :      pointbar : 2sec çà va pas le faire 7' ;)
+11:02 :         olbap : je file.
+11:03 :         olbap : tume diras. pas d'obligation. je publie cet aprem.
+11:03 :         olbap : bye
+11:03 ~s~ olbap < (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has quit [Quit: Ex-Chat]
+12:12 ~s~ Irssi: ##agilefr: Total of 9 nicks 1 ops, 0 halfops, 0 voices, 8 normal
+12:14 :          clrh : hello, j'ai une proposition de discussion, éventuellement pour ceux que ça intéresse: la semaine prochaine je suis invitée à http://www.iutagile.com/ pour parler de mon rex de la sortie de l'iut jusque là où j'en suis aujourd'hui (+ mini prez scrum)
+12:14 :          clrh : c'est 2 jour avec une grande partie des profs d'iut de toute la france (surtout profs d'info / gestion je crois)
+12:15 :          clrh : si vous avez un avis sur l'enseignement de l'agilité dans les formations initiales, la discussion m'intéresse :)
+12:15 :          clrh : (14/16h30 démo/rétro pour moi donc indispo)
+13:36 :      goldoraf : clrh, pour moi tout dépend de la formation : si elle est plutôt orientée dev, inutile de les allécher avec qqch qu'ils ne verront de toute façon pas dans leur premier emploi en SSII ;)
+13:37 :          clrh : hm pourquoi donc ne pas arriver dans un job enétant sensibilisé à des pratiques d'ingénieuries (tdd, ic etc.) ?
+13:37 :      goldoraf : clrh, mais plus sérieusement, une sensibilisation à l'agilité devrait être obligatoire en formation initiale
+13:38 :      goldoraf : clrh, les pratiques d'ingénierie dont tu parles ne sont pas réservées à l'agilité
+13:38 :      goldoraf : clrh, elles devraient être enseignées dans tous les cas
+13:38 :          clrh : c'est comme ça que j'en ai entendu parler en tout cas, via xp
+13:38 :          clrh : oui
+13:38 :          clrh : mais ce n'est pas le cas :)
+13:38 :          clrh : puisque à l'iut même la gestion des sources n'est pas mentionnée ><
+13:38 :      goldoraf : clrh, c'est bien pour ça que je n'embauche jamais un ingénieur diplômé :D
+13:39 :      goldoraf : clrh, lamentable ça...
+13:39 :          clrh : rô
+13:39 :          clrh : vi
+13:39 :      goldoraf : clrh, amha il faudrait commencer par ça : enseigner tdd et ic
+13:40 :      goldoraf : clrh, pour des formations "chef de projet", une sensibilisation aux méthodes agiles serait aussi nécessaire
+13:40 :          clrh : comment ca se passe chez vous quand vous intégrez un nouvel "équipier" à une team scrum ou autre ? (et qu'il sort de forma)
+13:41 :      goldoraf : clrh, je n'ai pour l'instant jamais intégré de jeune tout frais émoulu de l'école
+13:41 :          clrh : :)
+13:41 :      goldoraf : clrh, c'est certainement un tort, mais j'ai besoin de gens productifs immédiatement (et je les paie bien pour ça)
+13:42 :      goldoraf : clrh, je ne me vois pas en tout cas embaucher qqn qui n'aurait jamais entendu parler d'agilité
+13:43 ~s~ sfui < (~Adium@AMontpellier-556-1-316-35.w81-251.abo.wanadoo.fr) has quit [Quit: Leaving.]
+13:44 :      goldoraf : clrh, dans l'hypothèse donc ou j'intégrerais un jeune (qui aurait entendu parler d'agilité), je pense que je lui présenterais nos pratiques puis que je le ferais binômer avec un de mes seniors pour qu'il se mette dans le bain tout de suite
+13:44 :          clrh : c'est un choix :)
+13:44 :      goldoraf : clrh, je peux me permettre de le faire c'est sûr
+13:44 :          clrh : yep
+13:45 :      goldoraf : clrh, en fait qd je fais passer un entretien, ce que je recherche c'est une certaine culture/curiosité
+13:45 :      goldoraf : clrh, par ex., je ne pose jamais de question sur les langages qu'il connait ou pour lesquels il postule
+13:46 :      goldoraf : clrh, je lui demande plutôt ce qu'il a dans son radar de veille, ce qu'il a appris d'autres langages/technos
+13:47 :      goldoraf : clrh, et donc partant de là, un dev qui ne me parle que de Spring et qui n'a jamais entendu parler d'agilité, c'est non direct
+13:47 :          clrh : tout à fait,tenter  de connaître ses motivations et sa capacité à travailler en équipe plutôt que ce qu'il sait faire immédiatement
+13:47 :          clrh : si tu peux te le permettre tant mieux goldoraf  ;)
+13:48 :      goldoraf : clrh, la capacité à bosser en équipe, c'est encore autre chose, quasi impossible à vérifier en entretien
+13:48 :          clrh : dans mon expérience, j'aurais apprécié qu'on m'en touche 2 mots au plus tôt (agilité en général, pas que pratiques de dev) ca m'aurait évité bien des déconvenues...
+13:48 :          clrh : j'ai écris "tenter de connaître"
+13:48 :      goldoraf : clrh, c'est sûr
+13:48 :          clrh : :)
+13:48 :          clrh : je vais devoir y aller démo time
+13:48 :          clrh : a+ tard
+13:48 :      goldoraf : a+
+14:09 ~s~ sfui > (~Adium@AMontpellier-556-1-316-35.w81-251.abo.wanadoo.fr) has joined ##agilefr
+15:01 ~s~ olbap > (~pablo@78.200.188.3) has joined ##agilefr
+15:12 :         olbap : http://www.areyouagile.com/2013/01/agile-humaniste/
+15:12 :         olbap : petite lecture ?
+15:40 :         olbap : Je regarde Stoos Connect , suis déçu pour l'instant... comme l'année dernière ?
+16:05 ~s~ estrebet_ > (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has joined ##agilefr
+16:27 ~s~ estrebet_ < (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has quit [Quit: http://quassel-irc.org - Discuter simplement. Partout.]
+16:27 ~s~ estrebet > (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has joined ##agilefr
+17:14 ~s~ ndubois < (~ndubois@mail1.gpdis.com) has quit [Quit: Leaving.]
+18:17 ~s~ sfui < (~Adium@AMontpellier-556-1-316-35.w81-251.abo.wanadoo.fr) has quit [Quit: Leaving.]
+18:24 ~s~ goldoraf < (~raphael@2a01:e34:eed3:6ab0:60c6:e99c:811c:d200) has quit [Quit: Quitte]
+18:30 ~s~ bricef < (~brice@94.103.137.121) has quit [Quit: Quitte]
+19:41 ~s~ estrebet < (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has quit [Remote host closed the connection]
+21:59 ~s~ olbap < (~pablo@78.200.188.3) has quit [Quit: Ex-Chat]
+22:24 ~s~ sfui > (~Adium@157.80.176.95.rev.sfr.net) has joined ##agilefr
+--- Log closed sam. janv. 26 00:00:00 2013

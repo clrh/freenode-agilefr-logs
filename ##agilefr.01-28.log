@@ -1,0 +1,83 @@
+--- Log opened lun. janv. 28 00:00:00 2013
+07:10 ~s~ ervin > (~kdab@2a01:e34:ee1d:a300:213:e8ff:fe97:313d) has joined ##agilefr
+07:10 ~s~ ervin < (~kdab@2a01:e34:ee1d:a300:213:e8ff:fe97:313d) has quit [Changing host]
+07:10 ~s~ ervin > (~kdab@kde/ervin) has joined ##agilefr
+09:07 ~s~ olbap > (~pablo@lem34-1-88-188-241-49.fbx.proxad.net) has joined ##agilefr
+09:09 ~s~ ndubois > (~ndubois@mail1.gpdis.com) has joined ##agilefr
+09:14 ~s~ sfui > (~Adium@AMontpellier-556-1-316-35.w81-251.abo.wanadoo.fr) has joined ##agilefr
+09:51 :         olbap : salut tout le monde.
+09:54 :         ervin : salut
+09:56 ~s~ mode/##agilefr [+o olbap] by magopian
+10:15 ~s~ goldoraf > (~raphael@2a01:e34:eed3:6ab0:3823:8d68:5990:d080) has joined ##agilefr
+11:02 ~s~ olbap < (~pablo@lem34-1-88-188-241-49.fbx.proxad.net) has quit [Ping timeout: 252 seconds]
+11:16 ~s~ olbap > (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has joined ##agilefr
+11:50 ~s~ estrebet_ > (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has joined ##agilefr
+11:50 ~s~ estrebet_ < (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has quit [Client Quit]
+11:50 ~s~ estrebet_ > (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has joined ##agilefr
+12:03 :          clrh : hello
+12:27 ~s~ estrebet_ < (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has quit [Quit: http://quassel-irc.org - Discuter simplement. Partout.]
+12:27 ~s~ estrebet > (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has joined ##agilefr
+13:17 ~s~ ervin < (~kdab@kde/ervin) has quit []
+13:42 :         olbap : preuve à l'appui : toujours plus facile d'ouvrir quelque chose que de le fermer.
+13:44 :      magopian@: y'a du contexte à ta phrase olbap ?
+13:46 :         olbap : oui l'IRC :)
+13:46 :         olbap : mais ça me va. Ca ne me coûte rien de le laisser ouvert, et si un jour il sert, tant mieux.
+13:47 :         olbap : mon pif me dit que c'est possible.
+13:47 :         olbap : je ne parlais pas de "ma gueule"
+13:47 :         olbap : Tiens vendredi matin je serai à l'IUT sur Aix, et l'aprem à Avignon. . .
+13:47 :         olbap : Avec tous ces changements dans mon agenda c'est le mieux que je puisse faire.
+13:47 :         olbap : Claire tu es à l'IUT ?
+13:48 :          clrh : :)
+13:48 :          clrh : oui
+13:48 :          clrh : j'y serai
+13:49 :          clrh : jeudi au moins et vendredi selon l'état de mon occupation et mes envies pro
+13:49 :          clrh : pour moi l'irc a du sens, faut juste pas en attendre une activité tous les jorus toutes les heures au même niveau
+13:49 :         olbap : oui je te rejoins
+13:50 :          clrh : là par exemple j'ai envie de poser une question en lisantun blog de claude et je peux pas réagir en comm alros ca me frustre
+13:50 :          clrh : http://www.aubryconseil.com/post/La-4eme-colonne vous pensez quoi de ca ?
+13:50 :          clrh : enfin, dans votre contexte, en scrum vous avez vraiment que 3 colonnes dans la vraie vie ?
+13:51 :         olbap : Je n'ai pas l'avis de Claude à ce sujet. De mon côté je la conseille.
+13:51 :          clrh : 12/07/2011 comment je suis tombée là dessus >.<
+13:51 :         olbap : Je l'appelle "review" ou "done ???" (suivi d'un "done !!!")
+13:51 :         olbap : C'est une façon claire de sensibiliser les acteurs du tableau sur le "done". Le "done" c'est dur.
+13:52 :          clrh : j'ai plus que juste "à tester" par chez nous "revue tech" / "à pousser" / "doc" => ok c'est du mini cycle en v mais j'aime que mon équipe se sente responsable de son process,de son adaptation et des critères de passages entre 2 "états"
+13:52 :         olbap : Oui le truc avec l'article de Claude c'est qu'il évoque "à tester" spécifiquement. "done ???" me parait plus englobant (ce que tu dis aussi). ou "review".
+13:53 :          clrh : (certes y a "revue tech" parce qu'il n'y a pas de pairing automatique)
+13:53 :         olbap : Le test pourrait être fait "avant" le "review"
+13:53 :          clrh : tout à fait
+13:53 :         olbap : oui oui
+13:53 :         olbap : c'est plutôt une colonne pour sensibiliser les gens : a-t-on vraiment atteint tous les critères de "done".
+13:53 :         olbap : enfin à mon avis.
+13:53 :         olbap : Je suis même géné quand elle n'est pas là.
+13:54 :          clrh : ok dans ce cas ca rejoint un peu que ce que j'ai expérimenté à la dernière rétro, de renommer l'avant dernière colonne à "check du done"
+13:55 :         olbap : j'ai souvent (tout le temps) "review ou pair working/programming" dans le done, c'est le moment aussi de le faire.
+13:56 :          sfui : heu… et du coup, vous avez la colonne "ready ?"
+13:56 :          clrh : au cas où ça aurait trop vite fait ou un peu passé à la trappe :)
+13:56 :          clrh : j'ai un "en discussion" et "prêt"
+13:56 :          clrh : le "en discussion" sert finalement pour la story et pas pendant le sprint pour une tache
+13:57 :          clrh : (ie dans mon contexte / la vie de l'équipe, l'état avant ready ne sert à rien pendant le sprint)
+13:57 :          clrh : je suis pas s^ure d'être Claire :)
+13:58 :         olbap : Pas contre je n'ajouterai pas de colonne supplémentaire.
+13:58 :          clrh : dac
+13:58 :          sfui : Pas contre ou par contre ?
+13:58 :         olbap : En un sens l'équipe s'auto-organise pour la  colonne "review".
+13:58 :         olbap : PAR Contre
+13:59 :         olbap : 5 colonnes max : dont 1 pour les stories, puis "todo", "on going", "review", "done" habituellement
+13:59 :          clrh : olbap: pour l'historique du chan, je suis co 24/7 sauf si déco du serveur, j'ai donc les logs, je peux te les mettre à dispo ou les gitter ou whatever
+14:00 :          clrh : je vous dirai pas combien nous en avons et ça nous va bien comme ça ;) alros tout va bien
+14:01 :         olbap : au delà (nb de colonnes) mon avis est que tu approches plus une démarche kanban et donc que probablement toutes les colonnes n'appartiennent pas à une seule équipe.
+14:01 :         olbap : C'est autre chose. Pas mal, autre chose.
+14:01 :         olbap : Log / historique. tu t'auto-organises :)
+14:01 :         olbap : Il me semble que tous les gens qui écrivent dans cet écran savent qu'ils pourraient être historisés, transformés, recrachés.
+14:02 :          clrh : oup
+14:02 :     david`bgk : olbap: qu'est-ce que tu fais des tâches en attente (indépendamment de ta volonté) ?
+14:02 :          clrh : olbap: je peux faire un github rapidos
+14:02 :          clrh : pour l'instant ;)
+14:02 :         olbap : david donne un exemple (je vois ce que tu veux dire, mais X cas)
+14:02 :         olbap : Elle attendent dans leurs états : todo, on going, review, done
+14:03 :         olbap : si tu le savais *avant* tu n'aurais pas du t'engager.
+14:03 :         olbap : Ouuuais je suis pour l'engagement en fin de sprint planning.
+14:03 :     david`bgk : j'ai un exemple très concret : https://trello.com/board/quotidien/50879d153736d86435004cba
+14:03 :     david`bgk : on a été obligés d'ajouter la seconde colonne pour ne pas en avoir trop en bloquant
+14:03 :     david`bgk : (qui n'étaient pas vraiment bloqués en terme de fourmillement à avoir dessus)
+14:04 :         olbap : oui mais ton tableau c'est un kanban ? pas de "deadline" régulière, genre toutes les deux semaines ???
