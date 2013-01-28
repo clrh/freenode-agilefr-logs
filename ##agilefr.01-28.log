@@ -81,3 +81,41 @@
 14:03 :     david`bgk : on a été obligés d'ajouter la seconde colonne pour ne pas en avoir trop en bloquant
 14:03 :     david`bgk : (qui n'étaient pas vraiment bloqués en terme de fourmillement à avoir dessus)
 14:04 :         olbap : oui mais ton tableau c'est un kanban ? pas de "deadline" régulière, genre toutes les deux semaines ???
+14:04 :         olbap : Et bien si c'est un kanban, au bout d'un moment, si vraiment
+14:05 :         olbap : tu les laisses d'abord toutes dans "on going"
+14:05 :         olbap : en kanban : tu notes les dates d'entrées dans les colonnes
+14:05 :         olbap : donc quand tu vois que cela tranaille sévère, et que l'on s'amuse à en ouvrir (on going) d'autres par ce que l'on ne réussit pas à les traiter ...
+14:06 :         olbap : et bien tu fixes une limite "au travail". Par exemple "on going" pas plus de 8 éléments. Donc cela vous oblige à REPONDRE.
+14:06 :         olbap : on la garde celle là ? On veut vraiment la finir ? c'est possible ? autre solution ?
+14:06 :         olbap : Potentiellement on acte qu'elle disparait car elle est impossible.
+14:06 :         olbap : Il faut être obligé d'avancer, de statuer, d'assumer.
+14:07 :         olbap : Avec une "limite de travail" par colonne on s'oblige à traiter le flux.
+14:07 :         olbap : ce n'est pas facile.
+14:07 :         olbap : Pointbar ?
+14:08 :          clrh : pour l'autre produit (autre équipe, différent mode de fonctionnement: sorte de kanban mais pt assez régulier) on a une colonne "bloqué extérieur" (client, communauté(s), autre) et toutes les x sem, charge à moi d'escalader ou de faire ce qui est en mon pouvoir pour tenter un changement - j'ai en historique toutes les fois où je "reporte" ou toutes les "relances"
+14:08 :          clrh : c'est mes 2 cents...
+14:08 :         olbap : oui pas mal d'équipes avec "parking lot". Mais bon il faut surveiller la taille du parking...
+14:09 :          clrh : la limite dans mon cas, je n'arrive pas à la gérér car plusieurs clients en // et contraintes de planning pas toujours bien lissées sur chaque personne "extérieure"
+14:09 :     david`bgk : olbap: ok merci
+14:09 :          clrh : j'ai pas mieux à ce jour... (j'y travaille ;)
+14:09 :         olbap : dans ton exemple : "retrospective janvier" : en attente ? je comprends rien.
+14:09 :         olbap : Pourquoi l'avoir passé à "en cours" ?
+14:09 :     david`bgk : tant que janvier n'est pas terminé c'est pas encore en cours
+14:10 :     david`bgk : mais il faut qu'on fixe la date donc c'est déjà dans le board
+14:10 :     david`bgk : ça passera en en cours le jour J
+14:11 :         olbap : donc elle devrait rester dans "todo" pas grave que todo soit gros dans votre cas (kanban). Ou alors là comme c'est Kanban : 1ère colonne : idées, 2ème colonne : sélectionné, 3ème : on going, 4: done
+14:11 :         olbap : pas de "review" en colonne sur kanban dans ce cadre à mon avis, peu de sens.
+14:11 :     david`bgk : d'accord je vois, je vais réfléchir à ça
+14:11 :         olbap : pensez à la celebration au passage :)
+14:11 :     david`bgk : :)
+14:12 :         olbap : Est-ce que Trello propose les dates d'entrées dans les différentes colonnes ? non ? dommage si ce n'est pas le cas.
+14:12 :     david`bgk : tu l'as dans le log mais c'est pas super mis en avant
+14:12 :     david`bgk : tu peux mettre des due date par contre
+14:12 ~s~ bricef > (~brice@94.103.137.121) has joined ##agilefr
+14:12 :        bricef : hello
+14:13 :     david`bgk : après niko est en train de jouer avec l'api pour gérer les dates
+14:15 :         olbap : Tiens dit lui que je pousse pour que l'on utiliser casperjs dans un projet si cela s'avère adapté. Pourrait être une mauvaise et une bonne nouvelle pour lui. :)
+14:15 :         olbap : Go github claire !
+14:16 :         olbap : faudrait la date sur la fiche réduite dans le tableau (je dis pour n1k0 :) )
+14:20 :        bricef : pourquoi mauvaise nouvelle?
+14:21 :         olbap : car j'aurais peut-être des questions cons.
