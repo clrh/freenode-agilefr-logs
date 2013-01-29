@@ -129,3 +129,57 @@
 14:47 :      magopian@: par exemple botbot.me, on peut leur faire la demande (pour l'nstant c'est pas releasé, donc officiellement c'est pas dispo, sauf qu'ils ont des salons de test (et donc gratuits)
 14:49 :          clrh : magopian: perso j'ai pas le temps de mettre un bot alros j'ai proposé une solution vite fait pour moi, tu es le bienvenu sur tu veux te lancer dans qqch d'auter :)
 15:00 ~s~ duckmole > (~Thunderbi@2a01:e35:2f26:3b40:c9a7:9434:dd7b:4baa) has joined ##agilefr
+15:18 ~s~ yml > (~yml@li148-151.members.linode.com) has joined ##agilefr
+15:19 :         olbap : ici c'est comme la marée
+15:20 :      magopian@: olbap: dis voir, tu bosse où?
+15:20 :         olbap : où là ? maintenant ? Montpellier enfin castelnau le lez.
+15:20 :         olbap : c'est les bureaux smartview.
+15:21 :      magopian@: ok, tu bosse chez smartview donc?
+15:21 :      magopian@: hello yml ;)
+15:21 :      magopian@: pour pour info, yml travaille chez Lincoln Loop, ceux qui font botbot.me
+15:22          olbap : Magopian, la réponse de clrh est la bonne. initiative = prise en main par soi-même, ou le groupe qui pousse.
+15:23 :      magopian@: j'ai fait la demande par mail à LincolnLoop pour savoir si on peut bénéficier (gratuitement) de botbot.me sur le salon, on va voir ce qu'ils en disent
+15:23 :           yml : bonjour
+15:24 :         olbap : salut
+17:29 :          sfui : David ou Stéphane, j'utilise l'extension "cardcounter for trello" qui indique le nombre de cartes par colonne. On voit ainsi par exemple d'un coup d'oeil que votre limite de 'En attente' est dépassée ;-)
+17:35 :      goldoraf : et pour ceux qui ne le sauraient pas encore, il y a une extension Chrome pour rajouter la notion de points aux cartes de Trello : https://chrome.google.com/webstore/detail/scrum-for-trello/
+17:36 :         olbap : Et si vous arrêtiez ce #!%$ de trello pour un vrai tableau avec webcam pour David ?
+17:39 :      goldoraf : olbap, webcam veut dire un PC tournant en permanence juste pour ça, ce n'est pas idéal non plus
+17:40 :      goldoraf : olbap, je préfère aussi le tableau "physique", c'est d'ailleurs ce que j'utilise avec mon équipe, je ne me sers du trello que pour donner une image de notre tableau à notre PO et testeurs basés sur Paris
+17:40 :         olbap : non pas webcam, une photo par jour, ou alors il bouge. :)
+17:40 :      goldoraf : olbap, c'est un peu chiant pour moi de devoir maintenir le trello, mais je n'ai pas trouvé de meilleure solution
+17:41 :         olbap : y'a pas de bonnes solutions, sauf les tableaux et le présentiel. Mais on ne peut pas forcément. faut savoir ce que l'on veut, ce que l'on peut.
+17:41 :         olbap : faire les bons sacrifices.
+17:41 :      goldoraf : ce que j'espère avoir fait ;)
+17:42 :      goldoraf : olbap, ceci dit je rêve de hacker un kinect pour déplacer mes cards Trello en mode gestuel ;)
+17:43 :         olbap : J'y crois pas non plus. Tu perds une dimension physique importante. :) ce jour, je suis un chieur, as usual.
+17:43 :      estrebet : pour la kinect tu as olivier Destrade qui a un soft pour manipuler la souris
+17:43 :      goldoraf : hmmm, quelle dimension physique perdrait-on selon toi ?
+17:43 :      estrebet : cf la session le kanban était en noir de #atmtp
+17:44 :         olbap : le toucher par exemple. la profondeur.
+17:44 :      goldoraf : oui c'est sûr
+17:45 :      goldoraf : mais ce serait fun de se la jouer Minority Report ;) Inutile, mais fun.
+17:46 :      goldoraf : et quel pied ce serait de déchirer une story pas prête à la Fruit Ninja :D
+17:46 :      estrebet : > goldoraf: http://at2012.agiletour.org/montpellier/programme/kanban_noir
+17:47 :      goldoraf : estrebet, merci je vais regarder ça ; mais attention, il ne faut pas prendre au pied de la lettre toutes les conneries que je dis ! je reste un défenseur du "low tech"
+17:48 :      goldoraf : (bon sauf que si mes conneries sont loggées sur github, faudrait peut-être que je fasse attention ;)
+17:49 :          clrh : ah ha la discussion des teams pas co-localisées :)
+17:50 :          clrh : comment je rêve de re-toucher du papier hors "super spéciales rétrospectives"
+18:24 :         olbap : Comme ça change tout.
+18:25 ~s~ olbap < (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has quit [Quit: Ex-Chat]
+18:33 ~s~ duckmole < (~Thunderbi@2a01:e35:2f26:3b40:c9a7:9434:dd7b:4baa) has quit [Remote host closed the connection]
+18:51 ~s~ estrebet < (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has quit [Ping timeout: 252 seconds]
+18:55 ~s~ estrebet_ > (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has joined ##agilefr
+19:01 ~s~ estrebet_ < (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has quit [Quit: No Ping reply in 180 seconds.]
+19:03 ~s~ estrebet_ > (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has joined ##agilefr
+19:21 ~s~ sfui < (~Adium@AMontpellier-556-1-316-35.w81-251.abo.wanadoo.fr) has quit [Quit: Leaving.]
+19:28 ~s~ estrebet_ < (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has quit [Ping timeout: 256 seconds]
+19:58 ~s~ estrebet > (~quassel@gmo34-2-88-175-90-25.fbx.proxad.net) has joined ##agilefr
+20:58 :      estrebet : bonsoir
+20:58 :      estrebet : un de vous utilise icescrum?
+20:59 ~s~ sfui > (~Adium@200.16.14.81.rev.sfr.net) has joined ##agilefr
+23:34 ~s~ ipmb > (~ipmb@189.164.251.223) has joined ##agilefr
+23:38 ~s~ [o__o] > (~o__o]@botbot.me) has joined ##agilefr
+23:38 :          ipmb : bonjour [o__o]
+23:56 :          ipmb : magopian: please add https://botbot.me/freenode/agilefr/ to the topic so people know this channel is logged
+--- Log closed mar. janv. 29 00:00:00 2013
