@@ -1,2 +1,33 @@
 --- Log opened jeu. févr. 07 00:00:00 2013
 00:22 ~s~ sfui < (~Adium@113.75.176.95.rev.sfr.net) has quit [Quit: Leaving.]
+08:42 ~s~ duckmole > (~Thunderbi@2a01:e35:2f26:3b40:5ceb:af3f:c222:9281) has joined ##agilefr
+08:55 ~s~ ndubois > (~ndubois@mail1.gpdis.com) has joined ##agilefr
+09:12 ~s~ sfui > (~Adium@AMontpellier-556-1-310-16.w81-251.abo.wanadoo.fr) has joined ##agilefr
+09:21 :          clrh@: hello
+09:48 ~s~ sfui < (~Adium@AMontpellier-556-1-310-16.w81-251.abo.wanadoo.fr) has quit [Quit: Leaving.]
+10:39 ~s~ olbap > (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has joined ##agilefr
+10:40 :         olbap : hello
+11:31 ~s~ goldoraf < (~raphael@2a01:e34:eed3:6ab0:8cf2:216f:b978:6024) has quit [Quit: Quitte]
+12:50 ~s~ ndubois < (~ndubois@mail1.gpdis.com) has quit [Quit: Leaving.]
+13:15 ~s~ ndubois > (~ndubois@mail1.gpdis.com) has joined ##agilefr
+14:30 :          clrh@: ah ha j'ai twitté poru posé une question mais je peux aussi la poser ici :)
+14:30 :          clrh@: stimation de gros volume de stories (150 en 3h) quelles outils ? Estim par similitude, extreme quotation, autre ? #scrum
+14:34 :          clrh@: des retours d'xp ?
+14:58 :      avernois : estimation par ressemblance en silence ça marche bien
+15:00 :      avernois : simple et efficace. ça demande juste un peu de préparation si le backlog n'est pas déjà sous forme de carte
+15:01 :      avernois : une user story par carte, des colonnes tracées sur un mur ou une grande table.
+15:02 :      avernois : reste plus qu'à donner le tas de carte à l'équipe et c'est parti
+15:02 :      avernois : le faire en silence garanti qu'il n'y aura pas de chipotage
+15:03 :      avernois : évidemment, il faut que l'équipe au préalable connaisse le vision et le vocabulaire métier
+15:03 :          clrh@: j'avais fait pas en silence et le volume (que j'ai plus en tête) n'était pas tip top
+15:03 :          clrh@: du coup je peux essayer comme ca
+15:04 :          clrh@: après les stories sont pas non plus hyper décrites pour 'linstant donc questions au PO un peu obligé
+15:04 :          clrh@: j'entends en totu cas que c'est ce que tu ferais peut être ( olbap m'a répondu sur la même pratique sur twitter )
+15:05 :         olbap : oui pareil, cf le lien vers l'article de Ken Power, sur twitter.
+15:06 :         olbap : 1h pour présenter la vision, le backlog (ou 1H30) et 1h30 d'estimation. en silence.
+15:07 :      avernois : yep, c'est à peu près le timing que j'utilise aussi. ça marche bien
+17:26 :         olbap : pour ma part je n'utilise pas les lignes d'eau. Simplement l'écart est important dans la comparaison : deux fiches prochent : écart faible dans les estimations,
+17:27 :         olbap : deux fiches très éloignées :écart fort.
+17:27 :         olbap : A la fin, je fais le sauvage et regroupe violemment les fiches proches dans une même ligne symbolique. Les gens comprennent que les détails = lissage.
+18:27 ~s~ olbap < (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has quit [Quit: Ex-Chat]
+--- Log closed ven. févr. 08 00:00:00 2013
