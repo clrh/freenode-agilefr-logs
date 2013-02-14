@@ -1,2 +1,74 @@
 --- Log opened mer. févr. 13 00:00:00 2013
 07:32 ~s~ ervin > (~kdab@kde/ervin) has joined ##agilefr
+08:16 ~s~ ndubois < (~ndubois@mail1.gpdis.com) has quit [Ping timeout: 260 seconds]
+08:47 ~s~ ndubois > (~ndubois@mail1.gpdis.com) has joined ##agilefr
+09:14 ~s~ sfui > (~Adium@AMontpellier-556-1-327-53.w81-251.abo.wanadoo.fr) has joined ##agilefr
+10:17 ~s~ duckmole > (~Thunderbi@2a01:e35:2f26:3b40:c0c5:5c3d:279a:f37f) has joined ##agilefr
+11:00 :          sfui : j'ai une question test / python / django…
+11:06 :      magopian@: demande toujours ;) (mais t'es sûr que c'est le bon salon?)
+11:06 ~s~ duckmole < (~Thunderbi@2a01:e35:2f26:3b40:c0c5:5c3d:279a:f37f) has quit [Quit: duckmole]
+11:08 :          sfui : non je ne suis pas sur, mais je pense que les tests c'est importants dans l'agilité, donc il doit bien y avoir des personnes pointues sur le sujet. Le fait que se soit avec django peut être considéré comme un détail...
+11:09 ~s~ duckmole > (~Thunderbi@2a01:e35:2f26:3b40:59c1:775c:8018:4772) has joined ##agilefr
+11:10 :          sfui : Django, comme d'autres langage, fourni des facilités pour créer des objets directement en lien avec une base de données (~ entité JPA)
+11:11 :          sfui : si ces objets ont une logique métier, j'ai envi de rajouter ces méthodes dans l'objet.
+11:12 :          sfui : Comme je teste alors cette logique de manière la plus unitaire possible, au lieu d'avoir tout un environnement de test avec une base mémoire par exemple ?
+11:12 :          sfui : Comme = Comment
+11:14 :      magopian@: eh bien, sauf si ta méthode n'a pas besoin de l'objet _en base de données_, teste sur un objet créé pour l'occasion dans ton test
+11:14 :      magopian@: test_obj = MonObjet(foo=bar)
+11:14 :      magopian@: et tu teste dessus
+11:14 :      magopian@: attention, tu sera quand même limité: pas de pk, donc pas de FK ni de M2M
+11:15 :      magopian@: après, tu as aussi moyen d'utiliser des "factory" d'objets de test (factory_boy par exemple),mais il me semble qu'ils créent de toute manière les objets dans la DB
+11:16 :      magopian@: et tu peux aussi envisager (quand c'est possible) de coder tes méthodes pour qu'elles puissent être testées plus facilement (lui fournir des paramètres que tu peut surcharger lors d'un test)
+11:21 :          sfui : Il faut considérer que j'ai un modèle avec quelques relations entre mes objets et que, parfois, le comportement à tester s'appuie sur ce lien… du coup, la solution 1 ne semble pas assez 'complète'.
+11:21 :      magopian@: je pense pas qu'il y ai de solution magique
+11:21 :          sfui : La solution 3 me semble de base (approche TDD)
+11:21 :      magopian@: ta méthode pourrait appeler plusieurs sous-fonctions (unités) que tu pourrais alors tester indépendamment
+11:22 :      magopian@: et avoir un test "fonctionnel" (ou d'intégration selon comment tu l'appelles)
+11:22 :      magopian@: qui teste ta méthode globae
+11:22 :      magopian@: (désolé pour les typos et lettres qui manquent, j'ai un clavier bidon au possible)
+11:22 :          sfui : pas de soucis pour les typos ;)
+11:24 :          sfui : on est en train de réfléchir à mettre le comportement dans des classes indépendantes des modèles, donc facilement testable, puis de dire que l'objet étend cette classe, comme s'il implémente un certain comportement. Est-ce que ça a du sens ?
+11:32 :      magopian@: oui, on appelle ça des mixins
+11:32 :      magopian@: mais que ce soit dans la classe où pas, si ta méthode/fonction a besoin d'un objet avec toutes ses relations... tu n'y coupera pas, ou alors j'ia mal compris ton besoin?
+11:39 :          sfui : Dans le comportement que je teste, peu m'importe la façon dont je récupère mes objets, donc ça je le mock dans le test du mixin. En test fonctionnel, y'aura cette récupération par l'ORM en plus.
+11:41 :      magopian@: moui
+11:41 :      magopian@: ça rejoint ce que je proposais plus haut, avoir une méthode qui appelle plusieurs sous-fonctions
+11:41 :      magopian@: les Mixins sont une autre possibilité effectivement
+11:41 :          sfui : En gros, le mixin s'intéresse à la logique qu'il peut y avoir entre les différents objets, alors que les objets de l'ORM ne s'occupent que des liens 'réels' entre les objets (mais n'en font rien).
+11:42 :      magopian@: perso, j'essaie de m'orienter vers le focntionnel quand c'est possible, donc des fonctions "toutes simples" sans forcément de classe
+11:42 :          sfui : oui, je pense que ça se rejoint, mais j'essaie de regrouper ces fonctions au sein d'une classe pour lui donner du sens
+11:42 :          sfui : effectivement, c'est une autre approche
+11:43 :          sfui : ceci je crois qu'il est plus facile dans les templates django d'attaquer les méthodes d'une instance
+11:44 :      magopian@: si tu as accès à l'instance, oui
+11:44 :      magopian@: mais sinon, il y a les templatetags
+11:44 :          sfui : c'est vrai
+11:48 :          sfui : en tout cas merci
+11:55 :      magopian@: mais de rien ;)
+12:31 ~s~ sfui < (~Adium@AMontpellier-556-1-327-53.w81-251.abo.wanadoo.fr) has quit [Quit: Leaving.]
+14:16 ~s~ sfui > (~Adium@AMontpellier-556-1-327-53.w81-251.abo.wanadoo.fr) has joined ##agilefr
+14:31 ~s~ ndubois < (~ndubois@mail1.gpdis.com) has quit [Quit: Leaving.]
+--- Log closed mer. févr. 13 15:58:12 2013
+--- Log opened mer. févr. 13 15:58:22 2013
+15:58 ~s~ clrh > (~clrh@xvm-160-55.ghst.net) has joined ##agilefr
+15:58 ~s~ Irssi: ##agilefr: Total of 11 nicks 1 ops, 0 halfops, 0 voices, 10 normal
+15:59 ~s~ Irssi: Join to ##agilefr was synced in 54 secs
+16:12 ~s~ ndubois > (~ndubois@mail1.gpdis.com) has joined ##agilefr
+17:12 ~s~ sfui < (~Adium@AMontpellier-556-1-327-53.w81-251.abo.wanadoo.fr) has quit [Quit: Leaving.]
+17:40 ~s~ sfui > (~Adium@AMontpellier-556-1-327-53.w81-251.abo.wanadoo.fr) has joined ##agilefr
+18:30 ~s~ ervin < (~kdab@kde/ervin) has quit []
+20:06 ~s~ sfui < (~Adium@AMontpellier-556-1-327-53.w81-251.abo.wanadoo.fr) has quit [Quit: Leaving.]
+21:27 ~s~ [o__o] < (~o__o]@botbot.me) has quit [Remote host closed the connection]
+21:28 ~s~ [o__o] > (~o__o]@botbot.me) has joined ##agilefr
+21:28 ~s~ [o__o] < (~o__o]@botbot.me) has quit [Remote host closed the connection]
+21:34 ~s~ [o__o] > (~o__o]@botbot.me) has joined ##agilefr
+21:42 ~s~ [o__o] < (~o__o]@botbot.me) has quit [Remote host closed the connection]
+21:42 ~s~ clrh < (~clrh@xvm-160-55.ghst.net) has quit [Ping timeout: 272 seconds]
+--- Log closed mer. févr. 13 21:42:50 2013
+--- Log opened mer. févr. 13 21:42:58 2013
+21:42 ~s~ clrh > (~clrh@xvm-160-55.ghst.net) has joined ##agilefr
+21:42 ~s~ Irssi: ##agilefr: Total of 9 nicks 1 ops, 0 halfops, 0 voices, 8 normal
+21:43 ~s~ Irssi: Join to ##agilefr was synced in 43 secs
+21:50 ~s~ [o__o] > (~o__o]@botbot.me) has joined ##agilefr
+21:52 ~s~ sfui > (~Adium@71.48.14.81.rev.sfr.net) has joined ##agilefr
+23:15 ~s~ sfui < (~Adium@71.48.14.81.rev.sfr.net) has quit [Quit: Leaving.]
+--- Log closed jeu. févr. 14 00:00:00 2013
