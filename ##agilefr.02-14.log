@@ -2,3 +2,58 @@
 07:35 ~s~ ervin > (~kdab@2a01:e34:ee1d:a300:213:e8ff:fe97:313d) has joined ##agilefr
 07:35 ~s~ ervin < (~kdab@2a01:e34:ee1d:a300:213:e8ff:fe97:313d) has quit [Changing host]
 07:35 ~s~ ervin > (~kdab@kde/ervin) has joined ##agilefr
+08:59 ~s~ sfui > (~Adium@AMontpellier-556-1-327-53.w81-251.abo.wanadoo.fr) has joined ##agilefr
+10:04 ~s~ ervin < (~kdab@kde/ervin) has quit []
+12:01 ~s~ goldoraf < (~raphael@2a01:e34:eed3:6ab0:70df:76ff:551d:fa92) has quit [Ping timeout: 246 seconds]
+12:08 ~s~ goldoraf > (~raphael@2a01:e34:eed3:6ab0:207b:7944:9a8d:772e) has joined ##agilefr
+12:35 ~s~ sfui < (~Adium@AMontpellier-556-1-327-53.w81-251.abo.wanadoo.fr) has quit [Quit: Leaving.]
+12:39 ~s~ ncultures > (~flashbot@237.192.092.145.hva.nl) has joined ##agilefr
+12:39 ~s~ ncultures < (~flashbot@237.192.092.145.hva.nl) has left ##agilefr []
+12:50 ~s~ duckmole < (~Thunderbi@2a01:e35:2f26:3b40:59c1:775c:8018:4772) has quit [Quit: duckmole]
+13:01 ~s~ duckmole > (~Thunderbi@2a01:e35:2f26:3b40:2d1b:a60a:3fcf:46d) has joined ##agilefr
+14:04 ~s~ sfui > (~Adium@AMontpellier-556-1-327-53.w81-251.abo.wanadoo.fr) has joined ##agilefr
+14:17 ~s~ duckmole < (~Thunderbi@2a01:e35:2f26:3b40:2d1b:a60a:3fcf:46d) has quit [Remote host closed the connection]
+14:29 ~s~ sfui < (~Adium@AMontpellier-556-1-327-53.w81-251.abo.wanadoo.fr) has quit [Quit: Leaving.]
+15:23 ~s~ olbap > (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has joined ##agilefr
+15:24 :         olbap : helloooooo
+15:40 :      goldoraf : salut olbap
+15:40 :      goldoraf : olbap, j'espère que tu le fais en TDD ton JS :D
+15:41 :         olbap : c'est mal de se moquer. mais tu as raison, je ne le fais pas en tdd. Il me faut des axes des progression :p
+15:41 :      goldoraf : :)
+15:41 :         olbap : practice what you preach
+15:42 :         olbap : pour l'instant je re-apprends à coder...
+15:43 :      goldoraf : olbap, tu fais quoi comme JS ? du jQuery ou qqch d'un peu plus costaud (MVC) ?
+15:43 :         olbap : jquery & casperjs
+15:43 :      goldoraf : tu ferais plaisir à nik0 ;)
+15:43 :         olbap : enfin je fais... je me replonge dedans...
+15:43 :      goldoraf : olbap, si tu as des questions n'hésite pas
+15:44 :         olbap : merci
+15:44 :      pointbar : qu'ouï'je ?
+15:46 :      pointbar : Si çà te chauffe olbap, je file des cours de JS à @aigrick en ce moment
+15:46 :         olbap : ce qui est galère c'est la désynchro des requêtes http évoquées par casperjs. la conceptualisation estplus ardue.
+15:47 :         olbap : exemples de codes casperjs + jquery je suis preneur
+15:51 :      pointbar : j'ai pas çà sous la main. Pour l'instant, les sessions portent sur JS sans jQuery - (@aigrick est intégrateur)
+15:58 :         olbap : ET OK C'EST BON DES QUE J'Y VOIS CLAIR JE FAIS DES TESTS AVANT.
+16:03 :      pointbar : 27' de JS... et c'est la crise émotionnelle
+16:05 :      pointbar : ;)
+16:05 :         olbap : :)
+16:05 :         olbap : tu m'accordes des émotions :)
+16:05 :      pointbar : uhuh
+16:05 :         olbap : C'est con le projet est pour le pentagone, sinon je partagerais du code.
+16:06 :      pointbar : https://github.com/sunlightlabs/pentagon
+16:28 ~s~ sfui > (~Adium@AMontpellier-556-1-327-53.w81-251.abo.wanadoo.fr) has joined ##agilefr
+17:04 :         olbap : c'est quand même fortiche jquery
+17:23 :          sfui : tu veux détailler ?
+17:27 :         olbap : Non j'avais fait beaucoup de crawling/parsing à une époque, et aujourd'hui avec jquery & casperjs c'est cacahuète.
+17:39 :         olbap : et scribes c'est cool.
+17:41 :          sfui : heu… l'éditeur de texte sous gnome ?
+17:43 :         olbap : Voui.
+17:56 ~s~ sfui < (~Adium@AMontpellier-556-1-327-53.w81-251.abo.wanadoo.fr) has quit [Ping timeout: 252 seconds]
+17:58 ~s~ sfui > (~Adium@AMontpellier-556-1-344-125.w90-28.abo.wanadoo.fr) has joined ##agilefr
+18:19 ~s~ sfui < (~Adium@AMontpellier-556-1-344-125.w90-28.abo.wanadoo.fr) has quit [Quit: Leaving.]
+18:20 ~s~ olbap < (~pablo@lem34-1-88-188-241-42.fbx.proxad.net) has quit [Quit: Ex-Chat]
+18:47 ~s~ [o__o] < (~o__o]@botbot.me) has quit [Remote host closed the connection]
+18:47 ~s~ [o__o] > (~o__o]@botbot.me) has joined ##agilefr
+18:50 ~s~ ndubois < (~ndubois@mail1.gpdis.com) has quit [Quit: Leaving.]
+22:08 ~s~ sfui > (~Adium@71.48.14.81.rev.sfr.net) has joined ##agilefr
+--- Log closed ven. févr. 15 00:00:00 2013
